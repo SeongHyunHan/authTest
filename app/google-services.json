@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "846488463324",
+    "firebase_url": "https://authtest-cac47.firebaseio.com",
+    "project_id": "authtest-cac47",
+    "storage_bucket": "authtest-cac47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846488463324:android:ee7d4843dbb41ad2",
+        "android_client_info": {
+          "package_name": "com.authtest.seong.authtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846488463324-g6c31pm57f011vqe9no48t9irqi9kue6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.authtest.seong.authtest",
+            "certificate_hash": "965ae78e74dfb9b5569e5767eb511b6621488958"
+          }
+        },
+        {
+          "client_id": "846488463324-8pb8cvf0gmnst016j1ml6acj503kev5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJNPQcyPbzruCxkbp9vk1wWYJ6pIyOlNo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846488463324-8pb8cvf0gmnst016j1ml6acj503kev5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
