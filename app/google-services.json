@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "72959786752",
+    "firebase_url": "https://test-949d6.firebaseio.com",
+    "project_id": "test-949d6",
+    "storage_bucket": "test-949d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72959786752:android:8aef3483c3f84023",
+        "android_client_info": {
+          "package_name": "com.seong.butterknife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72959786752-9higiv41cgiqseiucgfrrqjhkia0svpc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seong.butterknife",
+            "certificate_hash": "1e2f02165fd12929ee267377fd74db6edb527ff2"
+          }
+        },
+        {
+          "client_id": "72959786752-k4e83k5a5macig9e3s4sc79otinpdkph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHzzUhc6HPXw8F2jIlcg670fmQWltXZbI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72959786752-k4e83k5a5macig9e3s4sc79otinpdkph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
